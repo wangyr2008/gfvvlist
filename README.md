@@ -1,6 +1,3 @@
-# GFW 白名单
-
-
 概述 
 -----
 
@@ -108,10 +105,14 @@ shrpx --client-proxy [-b <HOST,PORT>] [-f <HOST,PORT>]
 
 © 2012-2013 本文档修改于n0gfwall0@gmail.com，MIT License。 本文档使用了 [Mou](//mouapp.com) 和 [Marked](http://markedapp.com) 进行编辑。
 
+
+
 需要改进的地方欢迎fork & pull request / issue ~
 
 
 附录
+
+
 Shadowsocks for iOS 
 
 本地监听端口为`127.0.0.1:1983`
