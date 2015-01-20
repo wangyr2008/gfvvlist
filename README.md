@@ -113,8 +113,8 @@ shrpx --client-proxy [-b <HOST,PORT>] [-f <HOST,PORT>]
 
 附录
 Shadowsocks for iOS 
-本地监听端口为
-    127.0.0.1:1983
-代理地址为
-    http://127.0.0.1:1993/proxy.pac
+
+本地监听端口为`127.0.0.1:1983`
+
+代理地址为`http://127.0.0.1:1993/proxy.pac`
 
