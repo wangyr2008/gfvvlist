@@ -3888,6 +3888,6 @@ var FindProxyForURL = function(init, profiles) {
     "+Shadowsocks": function(url, host, scheme) {
         "use strict";
         if (host === "[::1]" || host === "localhost" || host === "127.0.0.1") return "DIRECT";
-        return "SOCKS5 127.0.0.1:1993";
+        return "SOCKS5 127.0.0.1:1080";
     }
 });

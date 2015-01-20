@@ -14,6 +14,8 @@
 
 使用方法
 ---------
+Chrome用户推荐使用 moew的新作 [Chrome扩展程序Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
+
 
 下载 whitelist.pac 文件后，修改代理服务器的 ip 地址和代理类型。然后将浏览器的代理设置中指向 whitelist.pac。
 
@@ -28,31 +30,31 @@ var proxy_type = 'HTTPS'; // or 'SOCKS5'
 
 当 `proxy_type`  选为 `HTTPS` 时，此 pac 文件适合用于 [Google Chrome 的安全代理](http://www.chromium.org/developers/design-documents/secure-web-proxy)。
 
-![使用 pac 文件](img/chrome-pac.png)
+![](http://ww2.sinaimg.cn/large/6d9bd6a5gw1eogqk48awgj21ci10yk01.jpg)
 
 
-### SSH/Goagent/http 代理设置
+适用于Proxy SwitchyOmega的快速存档恢复 `https://raw.githubusercontent.com/kawaiiushio/gfvvlist/master/OmegaOptions.bak`
 
-谈一点题外话，不少网友通过 SSH(Tunnelier/Entunnel) 等本地 socks5 代理或者 goagent 等本地 http 代理来翻墙。
+![使用 pac 文件](http://ww2.sinaimg.cn/large/6d9bd6a5gw1eogqk48awgj21ci10yk01.jpg)
 
-假设 SSH 开的本地端口是 7070，goagent 的本地端口开在 8087，
+
+### Shadowsocks 代理设置
+
+
+假设 Shadowsocks 开的端口是1080 
 
 ```
-'SOCKS5 127.0.0.1:7070';
+'SOCKS5 127.0.0.1:1080';
 ```
-```
-'HTTP 127.0.0.1:8081';
-```
+
 
 只需要将下面那个地址，直接贴入上图中 “Auto Config URL” 那个位置，,
 就可以用上这个白名单了。
 
 ```
-https://github.com/n0wa11/gfw_whitelist/raw/master/examples/whitelist_socks5_7070.pac
+https://raw.githubusercontent.com/kawaiiushio/gfvvlist/master/blacklist.pac
 ```
-```
-https://github.com/n0wa11/gfw_whitelist/raw/master/examples/whitelist_http_8081.pac
-```
+
 
 
 
@@ -102,11 +104,13 @@ shrpx --client-proxy [-b <HOST,PORT>] [-f <HOST,PORT>]
 
 在 Chrome 中安装 [FlashControl](https://chrome.google.com/webstore/detail/flashcontrol/mfidmkgnfgnkihnjeklbekckimkipmoe) 或在 Firefox 中安装 [FlashBlock](https://addons.mozilla.org/zh-cn/firefox/addon/flashblock/)，可以达到屏蔽 Flash 的效果。需要打开 Flash，比如视频，只要在被屏蔽的 Flash 上点击一次。
 
-![Chrome 的扩展](img/chrome-extension.png)
+![Chrome 的扩展](https://github.com/n0wa11/gfw_whitelist/blob/master/img/chrome-extension.png)
 
 ------
 
-© 2012-2013 n0gfwall0@gmail.com，MIT License。 本文档使用了 [Mou](//mouapp.com) 和 [Marked](http://markedapp.com) 进行编辑。
+© 2012-2013 本文档修改于n0gfwall0@gmail.com，MIT License。 本文档使用了 [Mou](//mouapp.com) 和 [Marked](http://markedapp.com) 进行编辑。
+
+需要改进的地方欢迎fork & pull request / issue ~
 
 
 附录
