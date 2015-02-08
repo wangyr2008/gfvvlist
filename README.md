@@ -47,7 +47,7 @@ var proxy_type = 'HTTPS'; // or 'SOCKS5'
 就可以用上这个白名单了。
 
 ```
-https://raw.githubusercontent.com/kawaiiushio/gfvvlist/master/blacklist.pac
+https://raw.githubusercontent.com/kawaiiushio/gfvvlist/master/whitelist.pac
 ```
 
 
