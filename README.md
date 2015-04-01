@@ -28,7 +28,7 @@ var proxy_type = 'HTTPS'; // or 'SOCKS5'
 当 `proxy_type`  选为 `HTTPS` 时，此 pac 文件适合用于 [Google Chrome 的安全代理](http://www.chromium.org/developers/design-documents/secure-web-proxy)。
 
 
-适用于Proxy SwitchyOmega的快速存档恢复 `https://raw.githubusercontent.com/kawaiiushio/gfvvlist/master/OmegaOptions.bak`
+适用于Proxy SwitchyOmega的快速存档恢复 `https://raw.githubusercontent.com/akar1nchan/gfvvlist/master/OmegaOptions.bak`
 
 ![使用 pac 文件](http://ww2.sinaimg.cn/large/6d9bd6a5gw1eogqk48awgj21ci10yk01.jpg)
 
@@ -47,7 +47,7 @@ var proxy_type = 'HTTPS'; // or 'SOCKS5'
 就可以用上这个白名单了。
 
 ```
-https://raw.githubusercontent.com/kawaiiushio/gfvvlist/master/whitelist.pac
+https://raw.githubusercontent.com/akar1nchan/gfvvlist/master/whitelist.js
 ```
 
 
