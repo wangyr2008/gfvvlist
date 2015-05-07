@@ -47,7 +47,7 @@ var proxy_type = 'HTTPS'; // or 'SOCKS5'
 白名單
 
 ```
-http://ippocdn.qiniudn.com/gfwlists.pac
+http://ippocdn.qiniudn.com/whitelist.pac
 ```
 
 黑名單
