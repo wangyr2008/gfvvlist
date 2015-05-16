@@ -28,7 +28,7 @@ var proxy_type = 'HTTPS'; // or 'SOCKS5'
 當 `proxy_type`  選爲 `HTTPS` 時，此 pac 文件適合用於 [Google Chrome 的安全代理](http://www.chromium.org/developers/design-documents/secure-web-proxy)。
 
 
-適用於Proxy SwitchyOmega的快速存檔恢復 `https://raw.githubusercontent.com/ippotsuko/gfvvlist/master/OmegaOptions.bak`
+適用於Proxy SwitchyOmega的快速存檔恢復 `http://ippocdn.qiniudn.com/OmegaOptions.bak`
 
 ![使用 pac 文件](http://ww2.sinaimg.cn/large/6d9bd6a5gw1eogqk48awgj21ci10yk01.jpg)
 
@@ -130,4 +130,4 @@ Shadowsocks for iOS
 
 本地監聽端口爲`SOCKS 127.0.0.1:1983`
 
-代理地址爲`http://127.0.0.1:1993/proxy.pac`
+代理地址爲`http://127.0.0.1:1993/blacklist.pac`

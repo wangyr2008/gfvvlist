@@ -1,0 +1,56 @@
+INFO: loading config from /Users/Akar1nchan/Documents/ss/shadowsocks/../shadowsocks/../config.json
+2015-05-16 23:32:59 INFO     loading libcrypto from /usr/lib/libcrypto.dylib
+2015-05-16 23:32:59 INFO     starting local at 127.0.0.1:1080
+INFO: loading config from /Users/Akar1nchan/Documents/ss/shadowsocks/../shadowsocks/../config.json
+2015-05-16 23:33:08 INFO     loading libcrypto from /usr/lib/libcrypto.dylib
+2015-05-16 23:33:08 INFO     starting local at 127.0.0.1:1080
+INFO: loading config from /Users/Akar1nchan/Documents/ss/shadowsocks/../shadowsocks/../config.json
+2015-05-16 23:33:41 INFO     loading libcrypto from /usr/lib/libcrypto.dylib
+2015-05-16 23:33:41 INFO     starting local at 127.0.0.1:1080
+INFO: loading config from /Users/Akar1nchan/Documents/ss/shadowsocks/../shadowsocks/../config.json
+2015-05-16 23:34:12 INFO     loading libcrypto from /usr/lib/libcrypto.dylib
+2015-05-16 23:34:12 INFO     starting local at 127.0.0.1:1080
+2015-05-16 23:34:35 INFO     connecting twitter.com:443 from 127.0.0.1:56067
+2015-05-16 23:34:39 INFO     connecting abs.twimg.com:443 from 127.0.0.1:56071
+2015-05-16 23:34:39 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56073
+2015-05-16 23:34:40 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56075
+2015-05-16 23:34:40 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56077
+2015-05-16 23:34:40 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56079
+2015-05-16 23:34:40 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56081
+2015-05-16 23:34:40 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56083
+2015-05-16 23:34:40 INFO     connecting abs.twimg.com:443 from 127.0.0.1:56085
+2015-05-16 23:34:40 INFO     connecting abs.twimg.com:443 from 127.0.0.1:56087
+2015-05-16 23:34:40 INFO     connecting abs.twimg.com:443 from 127.0.0.1:56089
+2015-05-16 23:34:54 INFO     connecting autoproxy-gfwlist.googlecode.com:80 from 127.0.0.1:56097
+2015-05-16 23:34:54 INFO     connecting autoproxy-gfwlist.googlecode.com:80 from 127.0.0.1:56098
+2015-05-16 23:34:54 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56101
+2015-05-16 23:34:54 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56102
+2015-05-16 23:35:05 INFO     connecting ssl.gstatic.com:443 from 127.0.0.1:56108
+2015-05-16 23:35:06 INFO     connecting docs.google.com:443 from 127.0.0.1:56110
+2015-05-16 23:35:24 INFO     connecting clients1.google.com:443 from 127.0.0.1:56119
+2015-05-16 23:35:40 INFO     connecting www.googleapis.com:443 from 127.0.0.1:56125
+2015-05-16 23:35:41 INFO     connecting www.googleapis.com:443 from 127.0.0.1:56127
+2015-05-16 23:36:50 INFO     connecting mtalk.google.com:443 from 127.0.0.1:56147
+2015-05-16 23:37:00 INFO     connecting twitter.com:443 from 127.0.0.1:56153
+2015-05-16 23:37:02 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56155
+2015-05-16 23:37:02 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56157
+2015-05-16 23:37:02 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56159
+2015-05-16 23:37:02 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56161
+2015-05-16 23:39:15 INFO     connecting ssl.gstatic.com:443 from 127.0.0.1:56284
+2015-05-16 23:39:28 INFO     connecting clients4.google.com:443 from 127.0.0.1:56291
+2015-05-16 23:39:29 INFO     connecting accounts.google.com:443 from 127.0.0.1:56293
+2015-05-16 23:39:40 INFO     connecting twitter.com:443 from 127.0.0.1:56297
+2015-05-16 23:39:41 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56299
+2015-05-16 23:39:41 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56301
+2015-05-16 23:39:41 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56303
+2015-05-16 23:39:41 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56304
+2015-05-16 23:39:41 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56305
+2015-05-16 23:39:41 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56309
+2015-05-16 23:40:30 INFO     connecting ssl.gstatic.com:443 from 127.0.0.1:56322
+2015-05-16 23:40:38 INFO     connecting clients4.google.com:443 from 127.0.0.1:56325
+2015-05-16 23:42:02 INFO     connecting ssl.gstatic.com:443 from 127.0.0.1:56346
+2015-05-16 23:43:00 INFO     connecting twitter.com:443 from 127.0.0.1:56363
+2015-05-16 23:43:01 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56365
+2015-05-16 23:43:01 INFO     connecting pbs.twimg.com:443 from 127.0.0.1:56367
+2015-05-16 23:43:50 INFO     connecting ssl.gstatic.com:443 from 127.0.0.1:56387
+2015-05-16 23:43:59 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:56391
