@@ -14,9 +14,8 @@ var FindProxyForURL = function(init, profiles) {
         if (/(?:^|\.)google\.com$/.test(host)) return "1";
         if (/(?:^|\.)twitter\.com$/.test(host)) return "1";
         if (/(?:^|\.)googlecode\.com$/.test(host)) return "1";
-        if (/(?:^|\.)trello-logos\.s3\.amazonaws\.com$/.test(host)) return "1";
+        if (/(?:^|\.)amazonaws\.com$/.test(host)) return "1";
         if (/(?:^|\.)slack\.com$/.test(host)) return "1";
-        if (/(?:^|\.)s3-us-west-2\.amazonaws\.com$/.test(host)) return "1";
         if (/(?:^|\.)slack-core\.com$/.test(host)) return "1";
         if (/(?:^|\.)slack\.global\.ssl\.fastly\.net$/.test(host)) return "1";
         if (/(?:^|\.)googleusercontent\.com$/.test(host)) return "1";

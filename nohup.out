@@ -3985,3 +3985,21 @@ INFO: loading config from /Users/Akar1nchan/Documents/ss/shadowsocks/../shadowso
 2015-05-20 11:27:43 INFO     connecting www.googleapis.com:443 from 127.0.0.1:55467
 2015-05-20 11:28:48 INFO     connecting docs.google.com:443 from 127.0.0.1:55515
 2015-05-20 11:30:12 INFO     connecting client.dropbox.com:443 from 127.0.0.1:55556
+2015-05-20 11:31:16 INFO     connecting clients4.google.com:443 from 127.0.0.1:55601
+2015-05-20 11:31:33 INFO     connecting clients4.google.com:443 from 127.0.0.1:55610
+2015-05-20 11:31:35 INFO     connecting www.google.com:443 from 127.0.0.1:55612
+2015-05-20 11:31:40 INFO     connecting plus.google.com:443 from 127.0.0.1:55621
+2015-05-20 11:31:55 INFO     connecting www.google.com:443 from 127.0.0.1:55627
+2015-05-20 11:32:05 INFO     connecting www.google.com:443 from 127.0.0.1:55631
+2015-05-20 11:32:23 INFO     connecting notify7.dropbox.com:443 from 127.0.0.1:55640
+2015-05-20 11:32:26 INFO     connecting www.google.com:443 from 127.0.0.1:55642
+2015-05-20 11:32:27 INFO     connecting d-g-z.slack.com:443 from 127.0.0.1:55645
+2015-05-20 11:32:35 INFO     connecting d-g-z.slack.com:443 from 127.0.0.1:55680
+2015-05-20 11:32:35 INFO     connecting d-g-z.slack.com:443 from 127.0.0.1:55682
+2015-05-20 11:32:35 INFO     connecting d-g-z.slack.com:443 from 127.0.0.1:55683
+2015-05-20 11:32:48 INFO     connecting 0.client-channel.google.com:443 from 127.0.0.1:55740
+2015-05-20 11:33:04 WARNING  timed out: mtalk.google.com:5228
+2015-05-20 11:33:04 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:55769
+2015-05-20 11:34:05 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:55840
+2015-05-20 11:35:06 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:55869
+2015-05-20 11:35:23 INFO     connecting plus.google.com:443 from 127.0.0.1:55879
