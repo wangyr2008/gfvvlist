@@ -51,9 +51,6 @@ http://ippocdn.qiniudn.com/whitelists.pac
 ```
 
 黑名單
-```
-http://ippocdn.qiniudn.com/blacklists.pac
-```
 
 gfwlists2pac
 ```
