@@ -2513,7 +2513,6 @@ var domains = {
   "t66y.com": 1, 
   "ajax.googleapis.com": 1, 
   "heroku.com": 1, 
-  "twimg.com": 1, 
   "google-analytics.com": 1, 
   "google.com": 1, 
   "googlecode.com": 1, 
@@ -2547,7 +2546,6 @@ var domains = {
   "longtailvideo.com": 1, 
   "d2pass.com": 1, 
   "sukebei.nyaa.se": 1, 
-  "jp": 1, 
   "google.co.jp": 1, 
   "amazon.co.jp": 1
   
